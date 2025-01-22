@@ -15,7 +15,7 @@ const GenerateList = () => {
     setLoading(true);
     try {
       const response = await axios.get('https://jsonplaceholder.typicode.com/todos');
-      setActivities([response.data[Math.floor(Math.random() * response.data.length)]]);  // Rastgele bir görev seç
+      setActivities([response.data[Math.floor(Math.random() * response.data.length)]]);
     } catch (error) {
       setError(true);
       setErrorMessage("Aktivite alınırken hata oluştu.");
