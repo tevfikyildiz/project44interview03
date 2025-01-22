@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/tevfikyildiz/Desktop/FRONT_END_DEV/5-Projects/46-) Project 44- Interview-03/project44interview03/src/app/layout\":[\"static/media/a6f0af5b22863f4a-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
